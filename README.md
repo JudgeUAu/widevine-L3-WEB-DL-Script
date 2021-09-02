@@ -9,7 +9,7 @@ webdl.py - Uses yt-dlp
 webdl2.py Uses N_m3u8
 Use Command python webdl2.py -o FILENAME
 
-## Notes FOr webdl2.py Script
+## Notes For webdl2.py Script
 You WIll need to Edit The Script to mach the Audio you are Selecting.
 
 Example 
