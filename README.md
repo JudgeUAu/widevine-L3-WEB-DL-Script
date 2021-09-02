@@ -7,7 +7,20 @@ Last Updated September 3, 2021.
 webdl.py - Uses yt-dlp
 
 webdl2.py Uses N_m3u8
-Use Command python webdl.py -o FILENAME
+Use Command python webdl2.py -o FILENAME
+
+## Notes FOr webdl2.py Script
+You WIll need to Edit The Script to mach the Audio you are Selecting.
+
+Example 
+
+encrypted(Audio).m4a and decrypted(Audio).m4a = ACC Audio
+
+encrypted(Audio).ac3 and decrypted(Audio).ac3 = AC3 Audio
+
+encrypted(Audio).eac3 and decrypted(Audio).eac3 = E-AC3 Audio
+
+Chnage All secetion in the script to match the Audio Selected
 
 ## How to use
 ### Requirements
