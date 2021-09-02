@@ -1,12 +1,13 @@
 # widevine-L3-WEB-DL-Script
 This is a script created to WEB-DL L3 Widevine Content.
 
-Last Updated September 1, 2021.
+Last Updated September 3, 2021.
 
 ## Scirpts
 webdl.py - Uses yt-dlp
 
 webdl2.py Uses N_m3u8
+Use Command python webdl.py -o FILENAME
 
 ## How to use
 ### Requirements
