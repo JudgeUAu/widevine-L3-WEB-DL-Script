@@ -1,13 +1,8 @@
 # widevine-L3-WEB-DL-Script
 This is a script created to WEB-DL L3 Widevine Content.
 
-Last Updated July 31, 2021.
+Last Updated September 1, 2021.
 
-## Use the branch below if you aren't able to modify the code according to your needs
-
-<https://github.com/parnexcodes/widevine-L3-WEB-DL-Script/tree/method-2>
-
-Works well with .mpd files , for m3u8 please use n_m3u8 program (not included in this script).
 
 ## How to use
 ### Requirements
@@ -34,7 +29,7 @@ The script will look in the keys.json file, starting from the second element in 
 If there are multiple `mpd_url`s in the file and it isn't working, try changing them around. You can also change the `mpd_url` for a custom one if you have one.
 
 ### Options
--id and -s are optional (**id** to manually enter video and audio id from ytdl, **s** for subtitle url.). **Subtitle part is bugged right now**.
+-id and -s are optional (**id** to manually enter video and audio id from ytdl, **s** for subtitle url.). **Subtitle part is bugged right now**. **Not Applicable to webdl2.py script**.
 
 ## Report Issues
 
